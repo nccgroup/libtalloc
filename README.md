@@ -10,6 +10,7 @@ unmask_jemalloc and libheap. Some basic functionality is identical to these
 projects.
 
 https://github.com/cloudburst/libheap
+
 https://github.com/argp/unmask_jemalloc
 
 Please note that I am no python guru and the code quality reflects this. If you
@@ -415,5 +416,6 @@ the second argument.
 
 Written by Aaron Adams
 
-Email: aaron<dot>adams<at>nccgroup<dot>trust
+Email: aaron (dot) adams (at) nccgroup (dot) trust
+
 Twitter: @fidgetingbits
